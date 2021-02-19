@@ -1,0 +1,12 @@
+[09-Nov-2019 13:12:36 Europe/London] PHP Fatal error:  Class 'app\models\action' not found in /home/kidoooe2/public_html/pages/classos/models/ActionSearch.php on line 14
+[09-Nov-2019 13:13:05 Europe/London] PHP Fatal error:  Class 'app\models\action' not found in /home/kidoooe2/public_html/pages/classos/models/ActionSearch.php on line 14
+[09-Nov-2019 13:14:38 Europe/London] PHP Fatal error:  Class 'app\models\action' not found in /home/kidoooe2/public_html/pages/classos/models/ActionSearch.php on line 14
+[09-Nov-2019 13:16:23 Europe/London] PHP Fatal error:  Class 'app\models\action' not found in /home/kidoooe2/public_html/pages/classos/models/ActionSearch.php on line 14
+[09-Nov-2019 13:20:53 Europe/London] PHP Fatal error:  Class 'app\models\action' not found in /home/kidoooe2/public_html/pages/classos/models/ActionSearch.php on line 14
+[09-Nov-2019 13:21:04 Europe/London] PHP Fatal error:  Class 'app\models\action' not found in /home/kidoooe2/public_html/pages/classos/models/ActionSearch.php on line 14
+[09-Nov-2019 13:23:39 Europe/London] PHP Fatal error:  Class 'app\models\action' not found in /home/kidoooe2/public_html/pages/classos/controllers/ActionController.php on line 132
+[09-Nov-2019 13:23:56 Europe/London] PHP Fatal error:  Class 'app\models\action' not found in /home/kidoooe2/public_html/pages/classos/controllers/ActionController.php on line 132
+[09-Mar-2020 00:57:44 Europe/London] PHP Parse error:  syntax error, unexpected '<' in /home/kidoooe2/public_html/pages/classos/vendor/dektrium/yii2-user/views/profile/show.php on line 3
+[09-Mar-2020 00:57:48 Europe/London] PHP Parse error:  syntax error, unexpected '<' in /home/kidoooe2/public_html/pages/classos/vendor/dektrium/yii2-user/views/profile/show.php on line 3
+[09-Mar-2020 10:59:16 Europe/London] PHP Parse error:  syntax error, unexpected '?>' in /home/kidoooe2/public_html/pages/classos/vendor/dektrium/yii2-user/views/profile/_view.php on line 15
+[10-Mar-2020 00:23:29 Europe/London] PHP Parse error:  syntax error, unexpected '";break;' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/kidoooe2/public_html/pages/classos/vendor/dektrium/yii2-user/views/profile/_view.php on line 21
