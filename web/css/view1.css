@@ -1,0 +1,319 @@
+.clear{clear:both;}
+.layer50{margin:50px auto;}
+.layer60{margin:60px auto;}
+.layer70{margin:70px auto;}
+.summary{color:#000;position:absolute;display:none;}
+.bottomlinks img{width:50px;}
+img {
+
+    max-width: 100%;
+
+    height: auto;
+
+    width: auto\9; /* ie8 */
+
+}
+/*index*/
+.site_index{margin:0 auto;width:1000px;}
+.index_head{padding:20px;}
+.row_index{
+	width:1000px;
+	margin:0 auto;
+	display:flex;
+	flex-wrap:wrap;
+	}
+.index_card{
+width:21%;
+height:150px;
+margin:2%;
+box-shadow: 2px 3px 8px #c7c6c6;
+border-radius:10px;
+display:flex;
+justify-content:center;
+align-items:center;
+}
+.index_btn{font-size:1.5em;width:100%;height:100%;display:flex;justify-content:center;align-items:center;border-radius:10px;}
+.index_btn:hover{background:#eee;color:#000;}
+/*normal*/
+.index_item{min-height:500px;}
+.index_search{padding:20px;background:#EEE;}
+.headimg{margin-bottom:30px;}
+.shadow{box-shadow: 2px 3px 8px #c7c6c6;}
+.radius5{border-radius:5px;}
+.radius10{border-radius:10px;}
+/*_view*/
+.neirong{width:100%;margin:30px 0px;border-radius:5px;box-shadow: 2px 3px 8px #c7c6c6;padding:15px;}
+.neirong_in{padding:20px 30px;line-height:40px;}
+.neirong_in_number{float:left;width:40px;height:30px;line-height:30px;text-align:center;background:#4595F5;width:5%;}
+.neirong_in_title{float:left;line-height:30px;padding-left:20px;width:95%;}
+.neirong_in_content{}
+.neirong_in_add{}
+
+.neirong_in_number_hw{border-bottom:1px solid #fff;height:40px;padding-left:5px;line-height:40px;font-size:1.2em;margin-bottom:15px;}
+.neirong_in_content_hw{font-size:1.2em;height:160px;overflow:auto;}
+/*view*/
+.article_content{width:70%;margin:0px auto;padding:2px 20px;}
+.card70{width:70%;margin:0px auto;}
+.article_content p{font-size:1.5em;}
+.test_content{width:80%;margin:20px auto;padding:2px 15px;border-radius:3px;font-size:1.5em;}
+.bottom_button{position:fixed;bottom:60px;}
+
+/*文字颜色·大小·背景颜色*/
+.font_black{color:#000;}
+.font_red{color:#AB1108;}
+.font_blue{color:#2D1AD2;}
+.font_grey{color:grey;}
+.font_white{color:#fff;}
+.font_size2{font-size:2em;}
+.font_size12{font-size:1.2em;}
+.font_size15{font-size:1.5em;}
+
+.back_hui{background:#eee;}
+.back_hui_d{background:#c7c9cb;}
+.back_zi{background:#DFB6FB;}
+.back_zi_d{background:#B555F6;}
+.back_cheng{background:#FF971E;}
+.back_hong{background:#F11C32;}
+.back_lv{background:#006662;}
+.back_lv_l{background:#d0ef8b;}
+.back_lan{background:#86DEF8;}
+.back_huang{background:#FFFE57;}
+.back_huang_l{background:#ffff73;}
+
+/*math*/
+.math_back{
+
+	background:#fff;
+	height:1000px;
+
+}
+.math_view{
+	background:#fff;
+	width:60%;
+	margin:0px auto;
+    border-radius:20px;
+	}
+.math_num{
+	display:flex;
+	flex-direction:row;
+	justify-content:center;
+	align-items:center;
+	height:150px;
+
+	
+}
+
+#num{
+	display:flex;	
+	justify-content:center;
+	align-items:center;
+	width:70px;
+	height:70px;
+	border-radius:30px;
+	border:2px solid #fff;
+	padding-top:12px;
+
+}
+#num p{font-size:1.5em;}
+.math_t_a{}
+.math_text{padding:10px 25px;
+	background:#fff;
+	margin:0px 0px;
+	min-height:120px;
+	border-bottom:2px solid #eee;
+	}
+.math_ans{font-size:1.2em;
+	background:#fff;
+	margin:0px 0px;
+	padding:10px 25px;
+	border-bottom:1px solid #eee;
+	height:50px;
+	line-height:30px;
+}
+	.math_s_r{
+		display:flex;
+		flex-direction:row;
+		background:#fff;
+
+	}
+.math_select{height:120px;padding:10px;width:100%}
+.math-btn{margin:30px 10px;width:45px;border-radius:20px;height:40px;}
+
+.math_next{
+	display:flex;	
+	justify-content:center;
+	align-items:center;
+	height:80px;
+	background:#eee;
+}
+#result{height:120px;
+		display:flex;	
+		justify-content:center;
+		align-items:center;
+
+		width:100%;
+		flex-wrap:wrap;
+
+		color:red;
+		}
+		
+#result p{font-size:3em;}
+.rank{height:40px;margin:10px 0px;float:left;line-height:40px;padding-left:10px;font-size:2em;color:#fff;}
+#rank{font-size:1.2em;color:#000;}
+#app_name{margin:20px auto;}
+.math_button{width:60px;height:50px;}
+
+/*font card*/
+#fontcard{
+	display:flex;
+
+	flex-wrap:wrap;
+
+}
+
+.font_card{
+
+	min-height:320px;
+	border-radius:10px;
+	background:#9cfcd5;
+	font-size:1.5em;
+	margin:10px;
+	font-family:楷体;
+
+}
+.font_p{padding:20px 10px;}
+.firstside{
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	flex-direction:column;
+
+	background:#000;
+	min-height:320px;
+	color:#fff;
+	font-family:楷体;
+	border-radius:10px;
+	}
+.font_bside{}
+.pinyin{font-size:2.5em;}
+
+/*false card*/
+.false_card{width:48%;margin:1%;
+	border-radius:5px;}
+
+/*common card*/
+
+.card{width:100%;
+	min-height:120px;
+	margin:10px 0px;
+	padding:10px 15px;
+	background:#000;
+	font-size:1.4em;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	flex-wrap:wrap;
+	flex-direction:column;
+	font-family:楷体;
+	box-shadow: 2px 3px 8px #c7c6c6;
+	border-radius:10px;
+	}
+
+	
+	
+/*表格的设置*/
+table
+{
+    border-collapse:collapse;
+}
+table,th, td
+{
+    border: 1px solid blue;
+}
+td{
+	 height:40px;
+	 text-align:center;
+	 vertical-align:middle;
+}
+.firstRow{background:yellow;font-size:1.5em;color:red;}
+
+
+.noticeview{margin:15px;background:#f2efe6;padding:25px 80px;;border-radius:12px;}
+
+.myhomeworkcard{background:#eee;
+width:80%;
+margin:20px auto;
+border-radius:20px;
+}
+
+.myhomeworkcounter{background:#eee;
+width:80%;
+margin:2px auto;
+padding:3px;
+border-radius:5px;
+}
+
+@media screen and (max-width: 1080px) {
+.layer50{
+	width:100%;
+	}
+.layer60{
+	width:100%;
+	}
+.layer70{
+	width:100%;
+}
+.article_content ,.test_content {
+	width:94%;
+	margin:0px auto;
+	padding:5px;
+	}	
+.neirong_in_number{
+	float:left;
+	width:40px;
+	height:30px;
+	line-height:30px;
+	text-align:center;
+	background:#4595F5;
+	width:10%;
+	}
+.neirong_in_title{
+	float:left;
+	line-height:30px;
+	padding-left:20px;
+	width:88%;
+	}
+.card70{width:100%;}
+
+/*math*/
+.math_view{width:98%;background:red;}
+.math_num{}
+.math_text{}
+.math_ans{}
+.math_select{}
+
+.math_result{}
+.math_next{}	
+
+/*index*/	
+.site_index{margin:0 auto;width:100%;}
+.index_head{padding:0px;}
+.index_head{padding:0;width:100%;}
+.row_index{width:100%;margin:0 auto;flex-wrap:wrap;}
+.index_card{height:80px;font-size:0.6em;width:19%;margin:3%;}
+
+/*font.view*/
+.noticeview{padding:10px 10px;margin:5px 5px;}
+/*myhomework._view*/
+.myhomeworkcard{background:#eee;
+width:100%;
+padding:5px;
+border-radius:20px;
+}
+.myhomeworkcounter{background:#eee;
+width:100%;
+padding:5px;
+border-radius:5px;
+}
+
+}
